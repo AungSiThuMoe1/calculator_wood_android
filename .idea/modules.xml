@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculatorforWood.iml" filepath="$PROJECT_DIR$/CalculatorforWood.iml" group="CalculatorforWood" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CalculatorforWood/app" />
+    </modules>
+  </component>
+</project>
